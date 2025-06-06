@@ -19,4 +19,4 @@ Power BI | DAX | Data Modeling | Visual Design
 
 Would love your thoughts — what other indicators would you add?
 
-hashtag#PowerBI hashtag#DataAnalytics hashtag#DataStorytelling hashtag#NigeriaEconomy hashtag#DashboardDesign
+#PowerBI #DataAnalytics #DataStorytelling #NigeriaEconomy #DashboardDesign
